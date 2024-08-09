@@ -42,8 +42,10 @@ with col1:
     url="https://agridchatbot-vcd4ehhmbkb5x54enrsrbi.streamlit.app/",
     styles={
         "card": {
-            "width": "400px",
-            "height": "500px",
+            # "width": "400px",
+            # "height": "500px",
+            # "width": "auto",
+            # "height":"auto",
             "border-radius": "20px",
             "box-shadow": "0 0 10px rgba(17, 95, 250, 0.88)",
             
@@ -61,8 +63,8 @@ with col2:
     url="https://user360bot-4pxrknjb8zo2fxgz2hafug.streamlit.app/",
     styles={
         "card": {
-            "width": "400px",
-            "height": "500px",
+            # "width": "400px",
+            # "height": "500px",
             "border-radius": "20px",
             "box-shadow": "0 0 10px rgba(17, 95, 250, 0.88)",
             
@@ -80,8 +82,8 @@ with col3:
     url="",
     styles={
         "card": {
-            "width": "400px",
-            "height": "500px",
+            # "width": "400px",
+            # "height": "500px",
             "border-radius": "20px",
             "box-shadow": "0 0 10px rgba(17, 95, 250, 0.88)", 
                        
