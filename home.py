@@ -36,7 +36,7 @@ with col1:
      hasClicked = card(
     key='1',
     title=["AGrid", " ", " "],
-    text = "chatbot",
+    text = "Chatbot",
     # text="Are you looking for a faster, more efficient way to manage your data on Salesforce? Look no further than AGrid. Our lightning-fast grids and powerful features streamline workflows, boost productivity, and enhance data quality across your organization. Experience the ultimate Salesforce data management solution with AGrid. Chat with us to explore more about the product.",
     image=f"""https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/AGrid%20Logo%203.png""",
     url="https://agridchatbot-vcd4ehhmbkb5x54enrsrbi.streamlit.app/",
@@ -57,7 +57,7 @@ with col2:
     hasClicked = card(
     key='2',
     title=["User 360"],
-    text = "chatbot",
+    text = "Chatbot",
     # text="Are you seeking an efficient solution for user management within Salesforce? Look no further than User360. Our platform offers robust features to streamline workflows, enhance productivity, and elevate data quality across your organization. User360 automates user management tasks, ensuring a seamless and efficient user experience. Chat with us to explore more about the product.",
     image=f"""https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/User360.png""",
     url="https://user360bot-4pxrknjb8zo2fxgz2hafug.streamlit.app/",
@@ -76,7 +76,7 @@ with col3:
     hasClicked = card(
     key='3',
     title=["Media Manager"],
-    text = "chatbot",
+    text = "Chatbot",
     # text="Media Manager, designed for the Lightning Experience, simplifies file management within Salesforce records. With built-in viewer modes, file controls, and powerful search capabilities, it enhances productivity and customization to meet your business needs. Chat with us to explore more about the product.",
     image="https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/Media%20Manager%203.png",
     url="",
