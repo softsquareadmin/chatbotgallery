@@ -23,7 +23,7 @@ st.markdown("""
                 text-align: center;
                 background-color: #f1f1f1;
                 z-index: 9">
-        Softsquare chatbot's
+        Softsquare's AI Gallery
     </h1>
 """, unsafe_allow_html=True)
 
