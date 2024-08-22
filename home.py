@@ -137,7 +137,7 @@ with col2:
 
 with col3:
     st.markdown("""
-        <a href="https://devappanalystics-eve9yjazayqvexttmutt2h.streamlit.app/" target="_blank" class="box">
+        <a href="https://mediamanagerchatbot-abzbrpflvgqnpd7ak9tcdr.streamlit.app/" target="_blank" class="box">
             <div style="display: flex; align-items: center;">
                 <img src="https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/Media%20Manager%203.png" alt="Media Manager Logo">
                 <div class="box-text">
@@ -154,9 +154,9 @@ with col21:
     st.markdown("""
         <a href="https://devappanalystics-eve9yjazayqvexttmutt2h.streamlit.app/" target="_blank" class="box">
             <div style="display: flex; align-items: center;">
-                <img src="https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/analytics-icon.png" alt="App Analytics Logo">
+                <img src="https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/ISVAppAnalytics.png" alt="App Analytics Logo">
                 <div class="box-text">
-                    <h4>ISV 360</h4>
+                    <h4>ISV App Analytics</h4>
                     <p>Powerful insights into app performance and user behavior.</p>
                 </div>
             </div>
