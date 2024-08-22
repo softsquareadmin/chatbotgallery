@@ -34,7 +34,7 @@ st.markdown("""
                 left: 0;
                 width: 100%;
                 text-align: center;
-                background-color: white;
+                color: black;
                 "
                            >
         Softsquare's AI Chatbot: Your Expert Product Guide!
@@ -45,7 +45,7 @@ st.markdown("""
                 left: 0;
                 width: 100%;
                 text-align: center;
-                background-color: white;
+                color: black;
                 z-index: 9">
         Get personalized support from our AI assistant for everything from configuration and feature insights to 
             <br>troubleshooting,ensuring a seamless experience
@@ -65,6 +65,14 @@ st.markdown("""
     <style>
         .stColumns {
             margin-bottom: 50vh ;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+    <style>
+        .st-emotion-cache-13k62yr {
+            background-color : white ;
         }
     </style>
 """, unsafe_allow_html=True)
