@@ -106,6 +106,7 @@ st.markdown("""
             text-align: left; /* Align text to the left */
         }
         .box-text h4, .box-text p {
+            color: black;
             margin: 0;
             padding: 0;
             text-decoration: none;
