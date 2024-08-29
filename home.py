@@ -125,7 +125,7 @@ with col1:
                 <img src="https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/AGrid%20Logo%203.png" alt="AGrid Logo">
                 <div class="box-text">
                     <h4>AGrid</h4>
-                    <p id="txtp" >One-stop solution for managing and visualizing Salesforce data effortlessly.</p>
+                    <p id="txtp" >One-step solution for managing and visualizing Salesforce data effortlessly.</p>
                 </div>
             </div>
         </a>
@@ -151,7 +151,7 @@ with col3:
                 <img src="https://raw.githubusercontent.com/softsquareadmin/chatbotgallery/main/Media%20Manager%203.png" alt="Media Manager Logo">
                 <div class="box-text">
                     <h4>Media Manager</h4>
-                    <p>Streamline and mange yourmedia assets within Salesforce.</p>
+                    <p>Streamline and manage your media assets within Salesforce.</p>
                 </div>
             </div>
         </a>
